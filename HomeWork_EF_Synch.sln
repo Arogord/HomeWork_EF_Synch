@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_EF_Synch", "HomeWork_EF_Synch\HomeWork_EF_Synch.csproj", "{1AF4736A-9030-44ED-90B8-50544E05798A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF4736A-9030-44ED-90B8-50544E05798A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF4736A-9030-44ED-90B8-50544E05798A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF4736A-9030-44ED-90B8-50544E05798A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF4736A-9030-44ED-90B8-50544E05798A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F869BC-CFFE-4028-887C-BF8A1C131472}
+	EndGlobalSection
+EndGlobal
